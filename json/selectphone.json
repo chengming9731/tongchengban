@@ -1,0 +1,86 @@
+{
+    "errno": 0,
+    "errmsg": "OK",
+    "result": [
+        {
+            "product_id": "26906",
+            "model_name": "iPhone 7",
+            "brand_id": "2",
+            "brand_name": "苹果",
+            "price": 4588,
+            "model_id": "660",
+            "mer_id": "8",
+            "thum_img": {
+                "old": "http://p0.qhmsg.com/t014497f37dffc64065.jpg",
+                "big": "http://p0.qhmsg.com/t0103b0a5f427574049.jpg",
+                "mid": "http://p0.qhmsg.com/t01ba2cc31aec8de9c8.jpg",
+                "min": "http://p0.qhmsg.com/t01ec98417e84cc572e.jpg"
+            },
+            "mer_name": ""
+        },
+        {
+            "product_id": "26986",
+            "model_name": "iPhone SE",
+            "brand_id": "2",
+            "brand_name": "苹果",
+            "price": 2788,
+            "model_id": "518",
+            "mer_id": "8",
+            "thum_img": {
+                "old": "http://p0.qhmsg.com/t019c10fee4725c6c9f.jpg",
+                "big": "http://p0.qhmsg.com/t01273cc06efc384716.jpg",
+                "mid": "http://p0.qhmsg.com/t016a4c7720fb8a45ac.jpg",
+                "min": "http://p0.qhmsg.com/t0147eab513074010c5.jpg"
+            },
+            "mer_name": ""
+        },
+        {
+            "product_id": "26621",
+            "model_name": "iPhone SE",
+            "brand_id": "2",
+            "brand_name": "苹果",
+            "price": 2139,
+            "model_id": "518",
+            "mer_id": "8",
+            "thum_img": {
+                "old": "http://p0.qhmsg.com/t019c10fee4725c6c9f.jpg",
+                "big": "http://p0.qhmsg.com/t01273cc06efc384716.jpg",
+                "mid": "http://p0.qhmsg.com/t016a4c7720fb8a45ac.jpg",
+                "min": "http://p0.qhmsg.com/t0147eab513074010c5.jpg"
+            },
+            "mer_name": ""
+        },
+        {
+            "product_id": "26551",
+            "model_name": "iPhone SE",
+            "brand_id": "2",
+            "brand_name": "苹果",
+            "price": 2288,
+            "model_id": "518",
+            "mer_id": "8",
+            "thum_img": {
+                "old": "http://p0.qhmsg.com/t019c10fee4725c6c9f.jpg",
+                "big": "http://p0.qhmsg.com/t01273cc06efc384716.jpg",
+                "mid": "http://p0.qhmsg.com/t016a4c7720fb8a45ac.jpg",
+                "min": "http://p0.qhmsg.com/t0147eab513074010c5.jpg"
+            },
+            "mer_name": ""
+        },
+        {
+            "product_id": "26557",
+            "model_name": "iPhone SE",
+            "brand_id": "2",
+            "brand_name": "苹果",
+            "price": 2788,
+            "model_id": "518",
+            "mer_id": "8",
+            "thum_img": {
+                "old": "http://p0.qhmsg.com/t019c10fee4725c6c9f.jpg",
+                "big": "http://p0.qhmsg.com/t01273cc06efc384716.jpg",
+                "mid": "http://p0.qhmsg.com/t016a4c7720fb8a45ac.jpg",
+                "min": "http://p0.qhmsg.com/t0147eab513074010c5.jpg"
+            },
+            "mer_name": ""
+        }
+    ]
+}

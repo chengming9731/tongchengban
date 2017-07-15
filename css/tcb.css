@@ -1,0 +1,720 @@
+
+html,body,ul,li,ol,dl,dd,dt,p,h1,h2,h3,h4,h5,h6,form,fieldset,legend,img {
+    margin: 0;
+    padding: 0;
+}
+fieldset,img {
+    border: none;
+}
+address,caption,cite,code,dfn,th,var {
+    font-style: normal;
+    font-weight: normal;
+}
+ul,ol,li {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+/*顶部开始*/
+#doc-topbar .clearfix:after{
+    content: ".";
+    clear: both;
+    display: block;
+    height: 0;
+    visibility: hidden;
+}
+#doc-topbar{
+    width:1364px;
+    height: 32px;
+    font-size: 12px;
+    background: #f7f7f7;
+    border-bottom:1px solid #c7c7c7;
+}
+#doc-topbar a{
+    color: #666;
+}
+#doc-topbar .in{
+    width: 90%;
+    height: 32px;
+    line-height: 32px;
+    margin:0 auto;
+}
+/*左边块*/
+#doc-topbar .u-left{
+    float: left;
+}
+#doc-topbar li{
+    float: left;
+}
+#doc-topbar .toponymy{
+    color: #185;
+    font-size: 14px;
+    padding:0 5px;
+}
+#doc-topbar .citychange{
+    border-right: 1px solid #D2D2D2;
+    padding-right: 13px;
+}
+#doc-topbar .item{
+    padding:0 13px 0 12px;
+}
+/*右边块*/
+#doc-topbar .u-right{
+    width: 530px;
+    height: 100%;
+    float: right;
+}
+#doc-topbar .u-right .item{
+    border-right: 1px solid #D2D2D2;
+}
+#doc-topbar .u-right .topbar{
+    padding:0 13px 0 12px;
+    color: red;
+}
+#doc-topbar .u-right .sub{
+    width: 48px;
+    margin-left: 10px;
+    display: none;
+}
+#doc-topbar .has-sub{
+    border:1px solid transparent;
+}
+/*顶部结束*/
+/*导航条*/
+.top-banner{
+    width:100%;
+}
+.top-banner .row{
+    width:90%;
+    height: 80px;
+    margin:auto;
+}
+.top-banner .row .col-left{
+    display: block;
+    float: left;
+    width: 235px;
+}
+.top-banner .logo{
+    background: url("../imgs/logo.png") no-repeat 0 center;
+    display: block;
+    height: 80px;
+    width: 200px;
+}
+.top-banner .col-right{
+    float: right;
+}
+.top-banner li{
+    float: left;
+    line-height: 80px;
+}
+.top-banner a{
+    color: #666;
+    display: inline-block;
+    font-size: 16px;
+    height: 40px;
+    line-height: 40px;
+    padding: 0 18px;
+    position:relative;
+}
+.top-banner .col-right a:hover{
+    background: #F0F0F0;
+}
+.top-banner .col-right .hot{
+    background: url("../imgs/HOT.png") no-repeat;
+    height: 15px;
+    width: 24px;
+    position: absolute;
+    right: 0;
+    top: -3px;
+}
+/*轮播图*/
+.top-cate{
+    width:100%;
+}
+.top-cate .cate-list{
+    margin: 0 auto;
+    position: relative;
+    width:90%;
+}
+.top-cate .cate-list .cate-list-main{
+    z-index: 20;
+    width: 235px;
+    height: 340px;
+    float: left;
+    position: absolute;
+    top: 0;
+    left:0;
+}
+.top-cate .cate-list .pngfix{
+    background: url("https://p.ssl.qhimg.com/t01c035e0988a964a21.png");
+    border-bottom: 1px solid #9A9895;
+    height: 84px;
+}
+.top-cate .cate-list .pngfix a{
+    color: #fff;
+    display: block;
+    font-size: 16px;
+    line-height: 84px;
+    padding-left: 95px;
+}
+.top-cate .cate-list .pngfix .xsj{
+    background: url(https://p.ssl.qhimg.com/t01280de86e9d9dc470.png) no-repeat 0 -9px;
+}
+.top-cate .cate-list .pngfix .xdn{
+    background: url(https://p.ssl.qhimg.com/t01280de86e9d9dc470.png) no-repeat 0 -104px;
+}
+.top-cate .cate-list .pngfix .msjdn{
+    background: url(https://p.ssl.qhimg.com/t01280de86e9d9dc470.png) no-repeat 0 -207px;
+}
+.top-cate .cate-list .pngfix .mesj{
+    background: url(https://p.ssl.qhimg.com/t01280de86e9d9dc470.png) no-repeat 0 -308px;
+}
+.top-cate .cate-list .box{
+    width: 1200px;
+    height: 340px;
+    float: left;
+}
+.top-cate .cate-list-main a img{
+    width:100%;
+}
+/*隐藏菜单*/
+.top-cate .cate-list .list-sub{
+    width: 700px;
+    height: 433px;
+    background: #fff;
+    float: left;
+    font-size: 12px;
+    border: 1px solid #118855;
+    position: absolute;
+    top: 0;
+    left: 235px;
+    z-index: 10;
+    display: none;
+}
+.top-cate .cate-list .list-sub .row{
+    width: 100%;
+    height:47px;
+}
+.top-cate .cate-list .list-sub .row:first-child{
+    margin-top: 25px;
+}
+.top-cate .cate-list .list-sub .row .left-fixed{
+    width: 145px;
+    height: 18px;
+    line-height: 18px;
+    float: left;
+    text-align: right;
+}
+.top-cate .cate-list .list-sub .row .right-cnt{
+    border-bottom: 1px solid #F0F0F0;
+    margin-left: 155px;
+    padding-bottom: 5px;
+}
+.top-cate .cate-list .list-sub .row .right-cnt a{
+    border-left: 1px solid #E0E0E0;
+    height: 18px;
+    line-height: 18px;
+    margin-bottom: 8px;
+    padding: 0 10px;
+    width: auto;
+    color: #333;
+}
+.top-cate .cate-list .list-sub .row .right-cnt a:hover{
+    color: #185;
+}
+
+    /*小商品*/
+.top-cate .small-slide{
+    width:100%;
+}
+.top-cate .small-slide .small-slide-inner{
+    width: 90%;
+    margin:auto;
+}
+.top-cate .small-slide .item{
+    width: 299px;
+    display: inline-block;
+}
+
+/*热门手机回收*/
+.section-block{
+    width: 100%;
+    height: 369px;
+}
+.section-block .tit{
+    font-size: 12px;
+    padding: 20px 0 0;
+}
+.section-block .tit .tit-inner{
+    margin: 0 auto;
+    position: relative;
+    width:90%;
+    height: 48px;
+}
+.section-block .tit h2{
+    color: #5A5A5A;
+    font-size: 24px;
+    line-height: 2;
+}
+.section-block .tit-inner a{
+    color: #666;
+    padding-right: 20px;
+    position: absolute;
+    top:0;
+    right: 15px;
+    height: 20px;
+    line-height: 20px;
+    background: url(https://p.ssl.qhimg.com/t0142af699131aff09e.png) no-repeat right 0;
+}
+.section-block .cnt{
+    width: 100%;
+}
+.section-block .cnt .cnt-inner{
+    width: 90%;
+    margin: 0 auto;
+}
+.section-block .cnt .cnt-inner .cnt-left{
+    height: 301px;
+    width: 200px;
+    float: left;
+    background: url(https://p.ssl.qhimg.com/t01a10599c63e402740.png) no-repeat 0 0;
+}
+.section-block .cnt .cnt-inner .item-first{
+    float: left;
+    color: #666;
+    font-size: 14px;
+    text-align: center;
+    width: 199px;
+}
+.section-block .cnt .cnt-inner .item-first img{
+    height: 160px;
+}
+.section-block .cnt .cnt-inner .item-first a{
+    color: #666;
+    display: block;
+    height: 301px;
+    width: 100%;
+}
+.section-block .cnt .cnt-inner .item-first .p-img{
+    height: 199px;
+    line-height: 199px;
+    padding: 32px 0 0;
+}
+.section-block .cnt .cnt-inner .item-first .p-name{
+    font-size: 16px;
+    line-height: 2;
+}
+/*二手良品精选*/
+.section-block .cnt .cnt-inner .cnt-left-fixed{
+    height: 301px;
+    width: 200px;
+    float: left;
+    background: url(https://p.ssl.qhimg.com/t0181716474f1ff8f12.png) no-repeat 0 0;
+}
+.section-block .cnt .cnt-inner .item-first .p-price{
+    color: #FC6621;
+    line-height: 1.6;
+}
+
+/*到店维修*/
+.index-shop-list{
+    width: 100%;
+    height: 992px; /*...*/
+}
+.index-shop-list .tit{
+    width: 100%;
+    font-size: 12px;
+    padding: 20px 0 0;
+    height: 48px; /*...*/
+}
+.index-shop-list .tit .tit-inner{
+    height: 48px; /*...*/
+    width: 1200px;
+    margin:0 auto;
+    position: relative;
+}
+.index-shop-list .tit .tit-inner h2{
+    color: #5A5A5A;
+    font-size: 24px;
+    line-height: 2;
+}
+.index-shop-list .cnt{
+    width:100%;
+    height: 844px;/*...*/
+}
+.index-shop-list .cnt .cnt-inner{
+    width: 1200px;
+    height: 844px;/*...*/
+    margin:0 auto;
+}
+.index-shop-list .cnt .cnt-left{
+    width: 890px;
+    height: 844px;/*...*/
+    float: left;
+}
+.index-shop-list .cnt .cnt-left .list-extend{
+    padding: 20px 0;
+    width: 890px;
+    height: 42px;
+}
+.index-shop-list .cnt-left .list-extend .row{
+    width: 890px;
+    height: 42px;
+}
+.index-shop-list .list-extend .row .left-fixed{
+    width: 300px;
+    float: left;
+    height: 42px;
+}
+.index-shop-list .list-extend .area-sel{
+    width: 120px;
+    height: 32px;
+    border:1px solid #185;
+    color: #333;
+    padding:4px 7px 4px 13px;
+    float: left;
+    font-size: 14px;
+    line-height: 32px;
+    position: relative;
+    margin-right: 8px;
+}
+.index-shop-list .list-extend .left-fixed .area-sel .pngfix{
+    display: inline-block;
+    width: 26px;
+    height: 22px;
+    background: url(https://p.ssl.qhimg.com/t010d71e7b045cd4e73.png) no-repeat 10px -24px;
+}
+.index-shop-list .list-extend .right-fixed{
+    margin-left: 300px;
+    border:1px solid #185;
+    width: 588px;
+    height: 40px;
+}
+.index-shop-list .list-extend .right-fixed .adder-ipt{
+    color: #999;
+    float: left;
+    font-size: 14px;
+    width: 449px;
+    height: 20px;
+    line-height: 20px;
+    padding: 10px 5px 10px 14px;
+    border:none;
+}
+.index-shop-list .list-extend .right-fixed .adder-btn{
+    background: #185;
+    border:0;
+    color: #fff;
+    float: left;
+    font-size: 18px;
+    width: 120px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+}
+.index-shop-list .list-wrap{
+    width: 890px;
+    height: 762px;
+}
+.index-shop-list .list-wrap .list-filter{
+    border: 1px solid #D6D6D6;
+    color: #666;
+    font-size: 14px;
+    height: 42px;
+}
+.index-shop-list .list-wrap .sort-type{
+    width: 370px;
+    height: 42px;
+    margin-right: 20px;
+    float: left;
+}
+.index-shop-list .list-wrap .sort-type li{
+    border: 1px solid #F5F5F5;
+    width: 120px;
+    height: 42px;
+    line-height: 42px;
+    float: left;
+    text-align: center;
+}
+.index-shop-list .list-wrap .sort-type .li-first{
+    background: #fff;
+    border-color: #D6D6D6;
+    border: 0;
+}
+.index-shop-list .list-wrap .list-filter{
+    border-color: #D6D6D6;
+    background: #F7F7F7;
+}
+.index-shop-list .list-wrap .list-filter a{
+    color: #666;
+}
+.index-shop-list .list-wrap .list-filter .sort-default{
+    color:#185;
+}
+.index-shop-list .list-wrap .list-filter .filter-check{
+    width: 260px;
+    height: 42px;
+    line-height: 42px;
+    float: left;
+    text-align: left;
+}
+.index-shop-list .list-wrap .list-filter .extra{
+    width: 103px;
+    height: 34px;
+    margin: 6px 10px 0 0;
+    float: right;
+    line-height: 34px;
+    text-align: center;
+}
+.index-shop-list .list-wrap .list-filter .extra a{
+    background: #fff url(https://p.ssl.qhimg.com/t01c9ef4268ff127a67.png) no-repeat 10px 0;
+    display: inline-block;
+    width: 56px;
+    height: 28px;
+    font-size: 14px;
+    line-height: 28px;
+    padding: 0 10px 0 35px;
+    border: 1px solid #DBDBDB;
+}
+.index-shop-list .list-wrap .shop-list{
+    width: 890px;
+    height: 664px;
+    font-size: 14px;
+}
+.index-shop-list .list-wrap .shop-list .list-item{
+    height: 92px;
+    line-height: 31px;
+    padding: 20px 0;
+    border-bottom: 1px solid #DFDFE1;
+    color: #888;
+}
+.index-shop-list .list-wrap .shop-list .pic{
+    width: 90px;
+    height: 90px;
+    border: 1px solid #e6e6e6;
+    float: left;
+}
+.index-shop-list .list-wrap .shop-list .pic img{
+    width: 90px;
+    height: 90px;
+}
+.index-shop-list .list-wrap .shop-list .cout{
+    height: 99px;
+    margin-left: 102px;
+    position: relative;
+}
+.index-shop-list .list-wrap .shop-list .cout h3 a{
+    font-weight: 300;
+    font-size: 14px;
+    color: #185;
+}
+.index-shop-list .list-wrap .shop-list .cout .desc, .addr{
+    width: 370px;
+    height: 31px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.index-shop-list .list-wrap .shop-list .cout .into-shop{
+    border: 1px solid #185;
+    color: #185;
+    font-size: 18px;
+    font-weight: 400;
+    float: right;
+    width: 140px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    position: absolute;
+    top: 32px;
+    right: 5px;
+    display: none;
+}
+.index-shop-list .list-wrap .shop-list .list-item:hover .into-shop{
+    display: block;
+}
+.index-shop-list .list-wrap .shop-list .list-item-last{
+    border: 0;
+}
+/*地图模式*/
+.zezao{
+    width: 100%;
+    height: 2353px;
+    background-color: #000;
+    opacity: 0.6;
+    position: absolute;
+    top:0;
+    left: 0;
+    z-index: 99;
+    display: none;
+}
+.mask{
+    width: 890px;
+    height: 551px;
+    z-index: 100;
+    position: absolute;
+    top: 1254px;
+    left: 229px;
+    box-shadow: 0 0 10px #666;
+    display: none;
+    background-color: #fff;
+}
+.mask .hd{
+    width: 100%;
+    height: 31px;
+    background: url(https://p.ssl.qhimg.com/t015366a1ffdd4fea2d.png) repeat-x;
+    border-bottom: 1px solid #e1e1e1;
+}
+.mask .hd h3{
+    width: 700px;
+    color: #888;
+    line-height: 32px;
+    text-indent: 14px;
+    font-size: 14px;
+}
+.mask .close{
+    cursor: pointer;
+    width: 11px;
+    height: 11px;
+    line-height: 11px;
+    position: absolute;
+    top: 11px;
+    right: 13px;
+}
+#cont{
+    height: 475px;
+    font-size: 12px;
+}
+#cont .mp-hd{
+    width: 290px;
+    height: 35px;
+    font-weight: 700;
+    font-size: 14px;
+    margin-left: 10px;
+}
+#cont .mp-bd{
+    height: 110px;
+}
+#cont .mp-bd p{
+    width: 270px;
+    height: 40px;
+    line-height: 40px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+/*商家好评*/
+.index-shop-list .cnt .cnt-right{
+    width: 270px;
+    height: 695px;
+    margin-left: 930px;
+    padding-top: 82px;
+}
+.index-shop-list .cnt .cnt-right .haoping-list{
+    width: 268px;
+    height: 693px;
+    background: #F6FDFF;
+    border: 1px solid #D6D6D6;
+    font-size: 14px;
+}
+.index-shop-list .cnt .cnt-inner .cnt-right .titp{
+    height: 42px;
+    line-height: 42px;
+    text-align: center;
+    color: #333;
+    font-size: 20px;
+    background: #F7F7F7;
+    font-weight: 400;
+}
+.index-shop-list .cnt .cnt-right .haoping-list .cont-list-item{
+    border-top: 1px solid #e6e6e6;
+    color: #666;
+    height: 52px;
+    padding:20px 0;
+    background: #F6FDFF;
+}
+/*城市切换*/
+#city{
+    background: #fbfbfb;
+    width: 460px;
+    height: 190px;
+    position: absolute;
+    left: 115.5px;
+    top: 28px;
+    z-index: 1000;
+    display: none;
+}
+#city h3{
+    height: 20px;
+    line-height: 20px;
+    font-weight: 400;
+    padding: 7px 20px;
+    position: relative;
+    font-size: 12px;
+}
+#city .city_close{
+    width: 55px;
+    height: 20px;
+    line-height: 20px;
+    position: absolute;
+    right: 10px;
+    top: 7px;
+    background: url(https://p.ssl.qhimg.com/t011be77565f0a2f8e8.png) no-repeat 0 0;
+    background-position: 0 -7px;
+    cursor: pointer;
+}
+#city .city-list{
+    width: 410px;
+    height: 126px;
+    background-color: #fff;
+    border: 1px solid #e8e8e8;
+    margin: 5px 10px 0;
+    padding: 12px 12px 0;
+}
+#city .city-list h4{
+    width: 24px;
+    height: 18px;
+    color: #666;
+    font-size: 12px;
+    font-weight: 400;
+    float: left;
+    margin-right: 20px;
+    margin-top: 5px;
+}
+#city .city-list li{
+    width: 372px;
+    height: 50px;
+    margin-left: 44px;
+}
+#city .city-list li a{
+    display: inline-block;
+    height: 18px;
+    line-height: 18px;
+    margin:0 8px 2px 0;
+    color: #000;
+    font-size: 12px;
+}
+#city .city-list li .filter_bar{
+    border-bottom:1px solid #d9d9d9;
+    height: 23px;
+    margin-bottom: 5px;
+}
+#city .city-list li .filter_bar .current{
+    border:1px solid #d9d9d9;
+    border-bottom: 1px solid #fff;
+    width: 19px;
+    height: 20px;
+    line-height: 19px;
+    text-align: center;
+    color: #f60;
+    font-weight: 700;
+}
+
+
+
+
+
+
+
+
+

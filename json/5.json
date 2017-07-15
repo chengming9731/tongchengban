@@ -1,0 +1,186 @@
+{
+    "errno": 0,
+    "errmsg": "OK",
+    "result": [
+        {
+            "show_buyer_mobile": "134****3238",
+            "total_amount": "650.00",
+            "product_info": {
+                "product_name": "真机实拍",
+                "product_img": "http://p0.qhmsg.com/t0109f69c3068b04972.jpg"
+            },
+            "model_name": "iPhone 5"
+        },
+        {
+            "show_buyer_mobile": "183****0278",
+            "total_amount": "299.00",
+            "product_info": {
+                "product_name": "真机实拍 保修半年",
+                "product_img": "http://p0.qhmsg.com/t016ffd9cf2fb6a935e.png"
+            },
+            "model_name": "Y22iL"
+        },
+        {
+            "show_buyer_mobile": "180****4522",
+            "total_amount": "2050.00",
+            "product_info": {
+                "product_name": "真机实拍 保修半年",
+                "product_img": "http://p0.qhmsg.com/t0134087cae802f7fc1.png"
+            },
+            "model_name": "iPhone 6"
+        },
+        {
+            "show_buyer_mobile": "138****6143",
+            "total_amount": "818.00",
+            "product_info": {
+                "product_name": "运行内存3GB 真机实拍 保修半年",
+                "product_img": "http://p0.qhmsg.com/t0108b725b97c018a29.jpg"
+            },
+            "model_name": "华为荣耀畅玩5X"
+        },
+        {
+            "show_buyer_mobile": "180****6201",
+            "total_amount": "2107.00",
+            "product_info": {
+                "product_name": "A1586 真机实拍 保修半年",
+                "product_img": "http://p0.qhmsg.com/t01f5575883be765e32.png"
+            },
+            "model_name": "iPhone 6"
+        },
+        {
+            "show_buyer_mobile": "152****8255",
+            "total_amount": "1807.00",
+            "product_info": {
+                "product_name": "3G运行内存",
+                "product_img": "http://p0.qhmsg.com/t013b548fafc0d0d163.jpg"
+            },
+            "model_name": "mate 8"
+        },
+        {
+            "show_buyer_mobile": "139****9171",
+            "total_amount": "2050.00",
+            "product_info": {
+                "product_name": "真机实拍 保修半年",
+                "product_img": "http://p0.qhmsg.com/t01f5575883be765e32.png"
+            },
+            "model_name": "iPhone 6"
+        },
+        {
+            "show_buyer_mobile": "139****3797",
+            "total_amount": "3799.00",
+            "product_info": {
+                "product_name": "7460 全国联保 官方直供 官翻",
+                "product_img": "http://p0.qhmsg.com/t01515f6c8a7a9fc2a5.jpg"
+            },
+            "model_name": "DELL 燃7000"
+        },
+        {
+            "show_buyer_mobile": "188****5991",
+            "total_amount": "1226.00",
+            "product_info": {
+                "product_name": "A1530 真机实拍 保修半年",
+                "product_img": "http://p0.qhmsg.com/t0123f382ad6d5c9862.jpg"
+            },
+            "model_name": "iPhone 5s"
+        },
+        {
+            "show_buyer_mobile": "135****8442",
+            "total_amount": "1207.00",
+            "product_info": {
+                "product_name": "真机实拍 A1530 保修半年",
+                "product_img": "http://p0.qhmsg.com/t0123f382ad6d5c9862.jpg"
+            },
+            "model_name": "iPhone 5s"
+        },
+        {
+            "show_buyer_mobile": "139****0977",
+            "total_amount": "3799.00",
+            "product_info": {
+                "product_name": "7460 全国联保 官方直供 官翻",
+                "product_img": "http://p0.qhmsg.com/t01515f6c8a7a9fc2a5.jpg"
+            },
+            "model_name": "DELL 燃7000"
+        },
+        {
+            "show_buyer_mobile": "186****7926",
+            "total_amount": "807.00",
+            "product_info": {
+                "product_name": "保修半年 真机实拍",
+                "product_img": "http://p0.qhmsg.com/t014dec2d4180fc1767.jpg"
+            },
+            "model_name": "iPad 2"
+        },
+        {
+            "show_buyer_mobile": "185****6761",
+            "total_amount": "2907.00",
+            "product_info": {
+                "product_name": "真机实拍 全国联保2017-6-29",
+                "product_img": "http://p0.qhmsg.com/t012d11975d9d7002d0.jpg"
+            },
+            "model_name": "iPhone 6 Plus"
+        },
+        {
+            "show_buyer_mobile": "188****5254",
+            "total_amount": "818.00",
+            "product_info": {
+                "product_name": "真机实拍 保修半年",
+                "product_img": "http://p0.qhmsg.com/t01d40f7a0ce2d344ef.png"
+            },
+            "model_name": "MX5"
+        },
+        {
+            "show_buyer_mobile": "139****0977",
+            "total_amount": "3799.00",
+            "product_info": {
+                "product_name": "7460 全国联保 官方直供 官翻",
+                "product_img": "http://p0.qhmsg.com/t01515f6c8a7a9fc2a5.jpg"
+            },
+            "model_name": "DELL 燃7000"
+        },
+        {
+            "show_buyer_mobile": "132****1369",
+            "total_amount": "4898.00",
+            "product_info": {
+                "product_name": "原封未激活 真机实拍",
+                "product_img": "http://p0.qhmsg.com/t01c0beb8bbd3dde9e1.png"
+            },
+            "model_name": "iPhone 7"
+        },
+        {
+            "show_buyer_mobile": "188****5991",
+            "total_amount": "1226.00",
+            "product_info": {
+                "product_name": "A1530 真机实拍 保修半年",
+                "product_img": "http://p0.qhmsg.com/t0123f382ad6d5c9862.jpg"
+            },
+            "model_name": "iPhone 5s"
+        },
+        {
+            "show_buyer_mobile": "186****4520",
+            "total_amount": "135.00",
+            "product_info": {
+                "product_name": "全新原装数据线+充电头 适用5/5S/5C/6/6S",
+                "product_img": "http://p0.qhmsg.com/t013705d9950180d055.jpg"
+            },
+            "model_name": "原装配件1"
+        },
+        {
+            "show_buyer_mobile": "159****9003",
+            "total_amount": "599.00",
+            "product_info": {
+                "product_name": "真机实拍 保修半年",
+                "product_img": "http://p0.qhmsg.com/t01eb9404bafe9fa04a.jpg"
+            },
+            "model_name": "超级手机乐 1S"
+        },
+        {
+            "show_buyer_mobile": "157****9353",
+            "total_amount": "4988.00",
+            "product_info": {
+                "product_name": "真机实拍 全国联保2017-10-9",
+                "product_img": "http://p0.qhmsg.com/t0103b0a5f427574049.jpg"
+            },
+            "model_name": "iPhone 7"
+        }
+    ]
+}

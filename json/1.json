@@ -1,0 +1,13 @@
+{
+	"errno": 0,
+	"errmsg": "OK",
+	"result": {
+		"liangpin_lunbo": [
+			"http://p8.qhmsg.com/t01fa2a881f9d175c72.png",
+			"http://p6.qhmsg.com/t01cca8f850c1df7826.jpg"
+		],
+		"liangpin_desc": [
+			"http://p2.qhmsg.com/t010f7603ccc786a60a.png"
+		]
+	}
+}

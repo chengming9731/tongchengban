@@ -1,0 +1,102 @@
+{
+    "errno": 0,
+    "errmsg": "OK",
+    "result": [
+        {
+            "comment_id": "5398",
+            "comment_mobile": "185****365",
+            "comment_content": "真的很不错，跟新的一样，在这里买了三个手机了，希望优惠还能再多一些，以后还会在这里买，推荐",
+            "comment_level": "5",
+            "comment_create_time": "2016-10-27",
+            "is_img": true,
+            "product_name": "三星 【Note 3 联通版】 联通 3G/2G 黑色 16 G 国行 95成新 95成新 真机实拍 双卡双待 N9002",
+            "product_img": "http://p0.qhmsg.com/t0127e58e709f96219a.jpg",
+            "imgs": [
+                {
+                    "img_id": "t013a0266bc7dce2d5e.jpg",
+                    "mini_url": "http://p3.qhmsg.com/dr/120_120_100/t013a0266bc7dce2d5e.jpg",
+                    "big_url": "http://p3.qhmsg.com/t013a0266bc7dce2d5e.jpg"
+                },
+                {
+                    "img_id": "t011b4bf8ad61b7567a.jpg",
+                    "mini_url": "http://p3.qhmsg.com/dr/120_120_100/t011b4bf8ad61b7567a.jpg",
+                    "big_url": "http://p3.qhmsg.com/t011b4bf8ad61b7567a.jpg"
+                }
+            ],
+            "show_buyer_mobile": "185****365",
+            "product_info": {
+                "product_img": "http://p0.qhmsg.com/t0127e58e709f96219a.jpg"
+            }
+        },
+        {
+            "comment_id": "5396",
+            "comment_mobile": "135****520",
+            "comment_content": "现在用着呢  一点问题都没有  非常好",
+            "comment_level": "5",
+            "comment_create_time": "2016-10-27",
+            "is_img": false,
+            "product_name": "小米 【红米 note2】 移动 4G/3G/2G 白色 16 G 国行2G运行内存  9成新",
+            "product_img": "http://p0.qhmsg.com/t01717d615ce1837b18.png",
+            "show_buyer_mobile": "135****520",
+            "product_info": {
+                "product_img": "http://p0.qhmsg.com/t01717d615ce1837b18.png"
+            }
+        },
+        {
+            "comment_id": "5392",
+            "comment_mobile": "155****093",
+            "comment_content": "手机真的不错，希望下次再来有更好的商品。",
+            "comment_level": "5",
+            "comment_create_time": "2016-10-27",
+            "is_img": false,
+            "product_name": "三星 【Galaxy S7 edge g9350】 黑色 32 G 国行 全网通9成新 全国联保2017-3-28",
+            "product_img": "http://p0.qhmsg.com/t01d2ab71837c7874a1.png",
+            "show_buyer_mobile": "155****093",
+            "product_info": {
+                "product_img": "http://p0.qhmsg.com/t01d2ab71837c7874a1.png"
+            }
+        },
+        {
+            "comment_id": "5389",
+            "comment_mobile": "132****358",
+            "comment_content": "宝贝不错，成色很好，在360买二手手机是不错的选择。",
+            "comment_level": "5",
+            "comment_create_time": "2016-10-26",
+            "is_img": false,
+            "product_name": "金立 【金钢（GN5001S）】 金色 全网通 16 G 国行95成新 真机实拍 保修半年",
+            "product_img": "http://p0.qhmsg.com/t014b4c1f01dac780e2.jpg",
+            "show_buyer_mobile": "132****358",
+            "product_info": {
+                "product_img": "http://p0.qhmsg.com/t014b4c1f01dac780e2.jpg"
+            }
+        },
+        {
+            "comment_id": "5340",
+            "comment_mobile": "180****365",
+            "comment_content": "手机收到，全新，没有磨损痕迹，自己很满意，同城帮诚信经营，承诺与商品完全一致，价格合理，谢谢。我还会常来看看，会介绍给朋友，真买的放心！",
+            "comment_level": "5",
+            "comment_create_time": "2016-10-24",
+            "is_img": false,
+            "product_name": "苹果【iphone6S PLUS】64 G 银色 全网通 国行 全网通 保修半年 99成新",
+            "product_img": "http://p0.qhmsg.com/t01089fc2d38db7ebd5.png",
+            "show_buyer_mobile": "180****365",
+            "product_info": {
+                "product_img": "http://p0.qhmsg.com/t01089fc2d38db7ebd5.png"
+            }
+        },
+        {
+            "comment_id": "5313",
+            "comment_mobile": "136****159",
+            "comment_content": "非常新，跟新手机一样，速度也快，很给力，继续加油，希望你们品牌在市场越做越大",
+            "comment_level": "5",
+            "comment_create_time": "2016-10-22",
+            "is_img": false,
+            "product_name": "苹果 【iphone6S PLUS】 全网通 金色 64 G 国行9成新 真机实拍 保修半年",
+            "product_img": "http://p0.qhmsg.com/t013281eb8e65529e88.png",
+            "show_buyer_mobile": "136****159",
+            "product_info": {
+                "product_img": "http://p0.qhmsg.com/t013281eb8e65529e88.png"
+            }
+        }
+    ]
+}
